@@ -1,0 +1,25 @@
+h2 {
+width: 800px;
+background-color: red;
+color: white;
+text-align:center ;
+}
+img{
+    float: left;
+    width: 150px;
+    height: 200px;
+    border: 2px solid red;
+    margin-right: 10px;
+    padding: 3px;
+
+}
+p{
+    text-align: justify;
+    font-size: 20px;
+}
+.header{
+    text-align: center;
+}
+.color{
+    color: red;
+}
